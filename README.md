@@ -67,8 +67,9 @@ const suneth = {
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl-rathnayake&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 <div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=sl-rathnayake&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
- 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=sl-rathnayake&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
+</a>
 </div>
 ---
 
