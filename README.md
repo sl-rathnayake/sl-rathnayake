@@ -59,24 +59,17 @@ const suneth = {
 </div>
 
 ---
-
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sl-ratnayake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunethRatnayake&theme=tokyonight&hide_border=true" />
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl-ratnayake&layout=compact&theme=tokyonight&hide_border=true" />
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sl-rathnayake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sl-rathnayake&theme=tokyonight&hide_border=true" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl-rathnayake&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sl-ratnayake&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=sl-rathnayake&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 </div>
-
 ---
 
 ## 🔨 Featured Projects
@@ -99,8 +92,8 @@ const suneth = {
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-slrathnayake.com-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://slrathnayake.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunethratnayake)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SunethRatnayake)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suneth-rathnayake-slr)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sl-rathnayake)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suneth@slrathnayake.com)
 
 </div>
@@ -111,7 +104,7 @@ const suneth = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SunethRatnayake&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=sl-rathnayake&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 **✨ "Still learning. Still building. Still teaching." ✨**
 
